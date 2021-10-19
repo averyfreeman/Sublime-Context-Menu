@@ -10,7 +10,7 @@ date: 2021-10-18
 
 original source: https://gist.github.com/jackielii/6869515
 
-[/@ 2021-10-18/]
+<!--@ 2021-10-18-->
 
 I tried another text editor which removed the "open with Sublime Text" option from my context menu and wanted it back.
 
